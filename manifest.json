@@ -9,5 +9,17 @@
   "start_url": "/",
   "theme_color": "#5b1919",
   "id": "7788",
-  "description": "لعبة NEON NEXUS: ULTIMATE EDITION هي لعبة منصات وأكشن سايبربانك (Cyberpunk Action-Platformer) متطورة وعالية السرعة، تجمع بين أجواء الخيال العلمي الكلاسيكية (Synthwave) وتحديات الألعاب الحديثة. تم تصميمها وهندستها لتوفير تجربة لعب ممتعة ومثيرة، سواء على الحواسيب أو الهواتف الذكية."
+  "description": "لعبة NEON NEXUS: ULTIMATE EDITION هي لعبة منصات وأكشن سايبربانك (Cyberpunk Action-Platformer) متطورة وعالية السرعة، تجمع بين أجواء الخيال العلمي الكلاسيكية (Synthwave) وتحديات الألعاب الحديثة. تم تصميمها وهندستها لتوفير تجربة لعب ممتعة ومثيرة، سواء على الحواسيب أو الهواتف الذكية.",
+  "icons": [
+    {
+      "src": "images.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "images.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
 }
